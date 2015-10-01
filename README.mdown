@@ -1,4 +1,12 @@
-# My New Blog!
+# Terrible blog assignment for Ruby on Rails development accelerator: a lesson in preformance evaluation.
+
+Original blog loads in in 48526.3ms.
+Added goldiloads... now loads in 14376.1ms.
+(In progress)
+
+Assignment:
+
+## My New Blog!
 
 I've got a lot to say, and now I have a place to say it!!!!!
 
